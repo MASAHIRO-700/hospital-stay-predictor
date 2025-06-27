@@ -63,5 +63,6 @@
 
 ## お問い合わせ
 
-本プロジェクトにご興味がある方は、GitHubのプロフィールまたは [LinkedIn](#) にてお気軽にご連絡ください。
+- Author: Masahiro Okada  
+- GitHub: [@MASAHIRO-700](https://github.com/MASAHIRO-700)
 
