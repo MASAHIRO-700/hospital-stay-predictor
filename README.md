@@ -39,8 +39,10 @@
 
 | ファイル名 / File Name | 説明 / Description |
 |------------------------|---------------------|
-| `HospitalStayPredictor.ipynb` | メインノートブック（前処理・モデル構築・可視化含む）<br>*Main notebook (includes preprocessing, model building, visualization)* |
-| `README.md`            | この説明ファイル<br>*This description file* |
+| `vaccine_hospitalization_prediction_jp.ipynb` | 日本語によるノートブック（前処理・モデル構築・可視化・解釈までを日本語で記述）<br>*Notebook written in Japanese, including preprocessing, modeling, visualization, and interpretation* |
+| `vaccine_hospitalization_prediction_en.ipynb` | 英語によるノートブック（内容は日本語版と同様だが、コメント・出力・可視化すべて英語表記）<br>*English version of the notebook with the same content as the Japanese version; all comments, outputs, and visualizations are in English* |
+| `README.md`            | この説明ファイル（日本語と英語を併記）<br>*This README file with both Japanese and English explanations* |
+
 
 ---
 
